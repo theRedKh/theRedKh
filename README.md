@@ -1,9 +1,9 @@
 ### Hey, I'm Khadeeja 👋🏼
 
-  I'm 18, a CS major in Canada, and experimenting with expanding my skills
+  I'm 19, a CS major in Canada, and experimenting with expanding my skills
 
 ## 💻Learning...
-  - **Programming Languages** - `Python`, `Java`, `Visual Basic`
+  - **Programming Languages** - `Python`, `Java`, `Visual Basic` , `C/C++`
   - **Web Development** - `HTML`, `CSS`
   - **Version Control** - `Git`
 
