@@ -4,7 +4,7 @@
 
 ## 💻Learning...
   - **Programming Languages** - `Python`, `Java`, `Visual Basic` , `C/C++`
-  - **Web Development** - `HTML`, `CSS`
+  - **Web Development** - `HTML`, `CSS` , `Java Script `
   - **Version Control** - `Git`
 
 ## 🕸️Random things about me...
