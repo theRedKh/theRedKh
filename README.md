@@ -10,3 +10,4 @@
 ## 🕸️Random things about me...
   - I have a lot of hobbies, including drawing, photography and anime
   - Graphic design is something I'm learning on the side
+  - Finding a roadmap to a career in cybersecurity
