@@ -6,6 +6,7 @@
   - **Programming Languages** - `Python`, `Java`, `Visual Basic` , `C/C++`
   - **Web Development** - `HTML`, `CSS` , `Java Script `
   - **Version Control** - `Git`
+  - **Other** - `Shell Scripting`, `Bash`
 
 ## 🕸️Random things about me...
   - I have a lot of hobbies, including drawing, photography and anime
