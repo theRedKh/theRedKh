@@ -1,3 +1,4 @@
+![CodeWars](https://www.codewars.com/users/theRedKh/badges/micro)
 ### Hey, I'm Khadeeja 👋🏼
 
   I'm 19, a CS major in Canada, and experimenting with expanding my skills
