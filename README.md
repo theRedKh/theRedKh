@@ -5,9 +5,9 @@
 
 ## 💻Learning...
   - **Programming Languages** - `Python`, `Java`, `Visual Basic` , `C/C++`
-  - **Web Development** - `HTML`, `CSS` , `Java Script `
+  - **Web Development** - `HTML`, `CSS` , `Java Script `, `Bootstrap`
   - **Version Control** - `Git`
-  - **Other** - `Shell Scripting`, `Bash`
+  - **Other** - `Shell Scripting`, `Bash`, `Verilog`, `RISC-V Assembly`
 
 ## 🕸️Random things about me...
   - I have a lot of hobbies, including drawing, photography and anime
