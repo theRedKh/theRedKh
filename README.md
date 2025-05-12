@@ -17,6 +17,7 @@ This is a list of tools and concepts I'm actively learning and working with
   - **Web Development** - `HTML`, `CSS`, `Java Script `, `Node.js`
   - **Version Control** - `Git`
   - **Other** - `Electron Apps`, `Shell Scripting`, `Bash`
+
 These are the skills I practiced in courses
   - `Verilog`, `RISC-V Assembly`
   - `Visual Basic`
