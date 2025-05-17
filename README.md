@@ -34,5 +34,5 @@ I'm especially curious about platforms like AWS and Azure, and integrating AI AP
   - I enjoy breaking down and explaining things I'm good at -it's one of the ways I learn best and help others.
 
 ## Always happy to say hello 😊
-  [LinkedIn](https://ca.linkedin.com/in/khadeeja-h-412355292?trk=people-guest_people_search-card) *
+  [LinkedIn]((https://www.linkedin.com/in/khadeeja-h/)) *
   [Photography Instagram](https://www.instagram.com/the.kh.perspective/)
