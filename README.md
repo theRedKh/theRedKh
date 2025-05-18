@@ -9,6 +9,15 @@
     - Clean UI
     - Storage management (figuring out how JSON and Node.Js work)
     (It's a personal collaboration project too!)
+  - Current working on **Thinkbox Notes**, a secure note-taking WebApp designed to be hosted locally to keep your thoughts private :)
+    Skills:
+    - Introduction to Web Application Security (risks like XSS, encryption etc)
+    - Clean UI
+    - Automated security testing
+    - Later addition: offline AI integration:
+      - Find sensitive words and decide privacy level - passwords: encryption, just thoughts, password lock/no encryption
+      - Filter notes in search more accurately
+      - Summarize a selected note in chat (very basic summary using a lightweight model to ensure no data needs to be sent)
   - Improving my understanding of Data Structures and Algorithms
     
 ## 💻Learning...
