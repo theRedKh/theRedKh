@@ -15,7 +15,7 @@
     - Clean UI
     - Automated security testing
     - Later addition: offline AI integration:
-      - Find sensitive words and decide privacy level - passwords: encryption, just thoughts, password lock/no encryption
+      - Find sensitive words and decide privacy level - passwords: encryption, just ideas: password lock/no encryption
       - Filter notes in search more accurately
       - Summarize a selected note in chat (very basic summary using a lightweight model to ensure no data needs to be sent)
   - Improving my understanding of Data Structures and Algorithms
