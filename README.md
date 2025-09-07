@@ -4,35 +4,39 @@
   I'm 20, a curious CS major in Canada, and experimenting with expanding my skills using project-based learning :)
   
 ## ☕What am I doing?
-  - Currently working on **LumosLearn**, a web development project built to practice skills in:
-    - HTML/CSS/JS
-    - Clean UI
-    - Storage management (figuring out how JSON and Node.Js work)
-    (It's a personal collaboration project too!)
-  - Current working on **Thinkbox Notes**, a secure note-taking WebApp designed to be hosted locally to keep your thoughts private :)
+  - Currently working on **Thinkbox Notes**, a secure note-taking WebApp designed to be hosted locally to keep your thoughts private :)
     Skills:
     - Introduction to Web Application Security (risks like XSS, encryption etc)
-    - Clean UI
+    - Clean UI - ReactJS
     - Automated security testing
     - Later addition: offline AI integration:
       - Find sensitive words and decide privacy level - passwords: encryption, just ideas: password lock/no encryption
       - Filter notes in search more accurately
       - Summarize a selected note in chat (very basic summary using a lightweight model to ensure no data needs to be sent)
+    - Next Step from now:
+      - Offline local database for notes
+    - Currently working on **LumosLearn**, a web development project built to practice skills in:
+      - HTML/CSS/JS + Conversion to `React`
+      - Clean UI
+      - Storage management (figuring out how JSON and Node.Js work)
+      (It's a personal collaboration project too!)
   - Improving my understanding of Data Structures and Algorithms
     
 ## 💻Learning...
 This is a list of tools and concepts I'm actively learning and working with
   - **Programming Languages** - `Python`, `Java`, `C/C++`
-  - **Web Development** - `HTML`, `CSS`, `JavaScript `, `Node.js`
+  - **Web Development** - `React`, `HTML`, `CSS`, `JavaScript `, `Node.js`
   - **Version Control** - `Git`
-  - **Other** - `React`, `Electron Apps`, `Shell Scripting`, `Bash`
+  - **Other** - `Electron Apps`, `Shell Scripting`, `Bash`, `SQLite`, `Docker`
 
 These are the skills I practiced in courses
   - `Verilog`, `RISC-V Assembly`
   - `Visual Basic`
+  - `SQL`
 
 ## 💭Interested in learning...
 I'm especially curious about platforms like AWS and Azure, and integrating AI API's into my projects to explore smart functionality.
+Currently looking at AI Agents, automation and `n8n`
 
 ## 🕸️Random things about me...
   - I have a lot of hobbies, including drawing, photography and anime
