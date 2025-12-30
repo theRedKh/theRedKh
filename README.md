@@ -4,17 +4,15 @@
   I'm 20, a curious CS major in Canada, and experimenting with expanding my skills using project-based learning :)
   
 ## ☕What am I doing?
-  - Currently working on **Thinkbox Notes**, a secure note-taking WebApp designed to be hosted locally to keep your thoughts private :)
+  - **NoteHaven**, an `ongoing project` and secure note-taking Desktop App designed to be hosted locally to keep your thoughts private :)
     Skills:
     - Introduction to Web Application Security (risks like XSS, encryption etc)
     - Clean UI - ReactJS
-    - Automated security testing
+    - Improve UX
     - Later addition: offline AI integration:
       - Find sensitive words and decide privacy level - passwords: encryption, just ideas: password lock/no encryption
       - Filter notes in search more accurately
       - Summarize a selected note in chat (very basic summary using a lightweight model to ensure no data needs to be sent)
-    - Next Step from now:
-      - Offline local database for notes
     - Currently working on **LumosLearn**, a web development project built to practice skills in:
       - HTML/CSS/JS + Conversion to `React`
       - Clean UI
