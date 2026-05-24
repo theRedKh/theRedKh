@@ -1,7 +1,7 @@
 ![CodeWars](https://www.codewars.com/users/theRedKh/badges/micro)
 ### Hey, I'm Khadeeja 👋🏼
 
-  I'm 20, a curious CS major in Canada, and experimenting with expanding my skills using project-based learning :)
+  I'm 21, a curious CS major in Canada, and experimenting with expanding my skills using project-based learning :)
   
 ## ☕What am I doing?
   - **NoteHaven**, an `ongoing project` and secure note-taking Desktop App designed to be hosted locally to keep your thoughts private :)
